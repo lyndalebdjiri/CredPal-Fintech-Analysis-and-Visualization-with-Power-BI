@@ -1,2 +1,3 @@
-# lyndalebdjiri-CredPal-Fintech-Analysis-and-Visualization-with-Power-BI
-This project focuses on CredPal, a Nigerian fintech firm enhancing retail sales growth with its credit infrastructure. Backed by a $2.9M investment from Stripe, the project aims to analyze consumer spending habits, demonstrating the scalability of CredPal’s solution. The derived insights will guide Stripe’s investment decisions.
+# lyndalebdjiri CredPal Fintech Analysis and Visualization with Power BI
+
+This project is focused on CredPal, a fintech firm from Nigeria that has developed a credit infrastructure to boost retail sales growth. With a $2.9M investment from Stripe, a software technology company in San Francisco, the project aims to analyze consumer spending habits across different regions. The goal is to demonstrate the scalability of CredPal’s solution and confirm its effectiveness. The insights obtained will guide Stripe’s investment strategy.
